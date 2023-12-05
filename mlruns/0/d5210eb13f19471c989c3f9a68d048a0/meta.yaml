@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/salla/fsdsmendtoend-1/mlruns/0/d5210eb13f19471c989c3f9a68d048a0/artifacts
+end_time: 1701792358564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5210eb13f19471c989c3f9a68d048a0
+run_name: selective-loon-481
+run_uuid: d5210eb13f19471c989c3f9a68d048a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701792355570
+status: 3
+tags: []
+user_id: salla
